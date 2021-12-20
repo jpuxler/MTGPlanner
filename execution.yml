@@ -1,0 +1,3 @@
+- label: demo
+  method: GET
+  url: http://puxler.de
